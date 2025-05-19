@@ -1,0 +1,2 @@
+Project Overview
+The Citizen Engagement System is designed to streamline communication between citizens and government agencies through a centralized complaint management platform. Built with PostgreSQL, this system provides efficient submission, tracking, and resolution of citizen concerns while ensuring proper routing to appropriate authorities.
